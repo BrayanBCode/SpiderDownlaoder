@@ -1,0 +1,1 @@
+pyinstaller --hidden-import tkinter --hidden-import yt_dlp --hidden-import tkinter.messagebox --add-data src:src src/Main.py

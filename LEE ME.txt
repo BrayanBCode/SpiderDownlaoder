@@ -1,0 +1,4 @@
+Si no encuentras el ejecutador o no funciona el acceso directo entre en las carpetas "dist/Main" ahi encontrara el ejecutador Main.exe, 
+haga doble click para abrirlo
+
+si gusta cree un acceso directo y muévalo a donde prefiera !! NO MUEVA "Main.exe" de lugar solo el acceso directo.
